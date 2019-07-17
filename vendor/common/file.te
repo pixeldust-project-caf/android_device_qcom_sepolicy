@@ -97,7 +97,6 @@ type sysfs_graphics, sysfs_type, fs_type;
 
 # USB/battery power supply type for hvdcp/quickcharge
 type sysfs_usb_supply, sysfs_type, fs_type;
-type sysfs_battery_supply, sysfs_type, fs_type;
 type sysfs_usbpd_device, sysfs_type, fs_type;
 # sysfs vadc device for hvdcp/quickcharge
 type sysfs_vadc_dev, sysfs_type, fs_type;
